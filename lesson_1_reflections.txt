@@ -1,0 +1,21 @@
+Viewing the diff between two versions of a file made it easier to find the error as subtracton/ addition signs were visable on the left side of the document, indicating these lines had changed.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having easy access to the entire history of a file make could aid in programming in a number of ways. First, it could aid in debugging. If the previous version of some code ran fine and the new version did not, the programmer could find the differences between the two versions and figure out what went wrong. Also, the programmer could make a drastic change to the code and later change their mind regarding the program. With version control, they can go back and start at the version before they made that change.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+One pro of manually choosing when to create a commit is that the programmer can create commits at logical points. For example, creating a commit after fixing a bug in a functional would probably be a logical point to create a commit. One con is that the programmer could wait a very long time before creating a commit, or completely forget to save their work. This way they could lose hours of hard work.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git may allow saving multiple files in one commit because it was designed with coding in mind. In web development for example, a website might require a javaScript file, an html file, and a css file to function properly. These files are all integral to the proper functioning of the site, so saving all files at once in one commit could help the programmer track issues and changes to the website through the various files. Google Docs wasn't really created to handle coding, so that could be a major reason it treats files separately.
+
+How might using version control make you more confident to make changes that could break something?
+
+Version control could make one more confident to make changes because one has the previous version saved; therefore, the programmer could revert back to the previous version if they do indeed break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to try using Git as the version control component of my web development workflow.
