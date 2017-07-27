@@ -5,3 +5,7 @@ Initializing a repository essentially creates a repository with files in your di
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a temporary location to keep files in before making a commit. This allows the progammer to choose which files are being added to the commit, thereby granting them more control regarding what is being added to the repository and when.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area to make sure you have one commit per logical change by only adding what file you have changed to the staging area, thereby only updating that file in the commit.
