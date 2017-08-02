@@ -9,3 +9,11 @@ The staging area is a temporary location to keep files in before making a commit
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use the staging area to make sure you have one commit per logical change by only adding what file you have changed to the staging area, thereby only updating that file in the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+One situation when a branch would be helpful would be when you are making a different version of an application. This way you could keep the master branch, and the original program, unaffected by changes to the alternate version. Another situation branches are helpful is when you want to experiment with the application. As stated, this experimentation won't affect the main branch of the program so you can try some radical changes with no fear of breaking your application.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you visualize the branch structure because they can represent the pattern in which commits are stored and how they are related to one another.
