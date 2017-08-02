@@ -5,3 +5,7 @@ You may want to use a remote repository if you are interested in sharing your wo
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 One benefit of pulling changes manually allows you the option of disregarding a change that has been made to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used when you want to take someone else's repository and work on it on your computer without affecting their repository. Clones make an exact copy of someone else's, or your own, repository on your computer. A fork is useful when you don't have permission to change someone else's repository but you want to work on their project seperately.

@@ -17,3 +17,11 @@ One situation when a branch would be helpful would be when you are making a diff
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help you visualize the branch structure because they can represent the pattern in which commits are stored and how they are related to one another.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together incorporates all of the changes from the two branches into one branch, so all commits are still accessible.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+One pro of automatic merging is the time-saving aspect of this method. 
