@@ -9,3 +9,7 @@ One benefit of pulling changes manually allows you the option of disregarding a 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are used when you want to take someone else's repository and work on it on your computer without affecting their repository. Clones make an exact copy of someone else's, or your own, repository on your computer. A fork is useful when you don't have permission to change someone else's repository but you want to work on their project seperately.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally is that your master branch is up to date and you can work on it offline.
